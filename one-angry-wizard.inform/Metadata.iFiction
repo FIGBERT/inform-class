@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>44317A37-809B-41B4-BB73-B48FC822F52E</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>One Angry Wizard, or the Tentacular Adventures of our Brave Hero through a World Most Strange and Foreign</title>
+            <author>FIGBERT</author>
+            <headline>A puzzle game about an angry wizard</headline>
+            <genre>Mystery</genre>
+            <firstpublished>0</firstpublished>
+            <description>You're trapped in an alternate dimension inside the pocket of a very angry wizard. Escape.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2020-07-22</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6M62</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6M62</generatorversion>
+            <originated>2020-07-22</originated>
+        </colophon>
+        <glulx>
+            <serial>200722</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6M62</compiler>
+        </glulx>
+    </story>
+</ifindex>

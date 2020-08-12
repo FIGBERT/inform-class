@@ -1,0 +1,4256 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">challenge-one</command>
+        <result xml:space="preserve">
+
+
+A Treehouse Beneath The Cliff
+An Interactive Fiction by FIGBERT
+Release 1 / Serial number 200701 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Plateau
+You awake to find youself prone on the ground. You look around to see a grassy field that seems to stretch on forever in all directions, ending abruptly half a meter south of you. You scramble quickly away from the edge. You look around and see an endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1250"></child>
+            <child nodeId="node-1246"></child>
+            <child nodeId="node-1243"></child>
+            <child nodeId="node-1237"></child>
+            <child nodeId="node-1235"></child>
+            <child nodeId="node-1229"></child>
+            <child nodeId="node-1197"></child>
+            <child nodeId="node-1195"></child>
+            <child nodeId="node-1193"></child>
+            <child nodeId="node-1186"></child>
+            <child nodeId="node-1271"></child>
+            <child nodeId="node-1183"></child>
+            <child nodeId="node-1167"></child>
+            <child nodeId="node-1164"></child>
+            <child nodeId="node-1306"></child>
+            <child nodeId="node-1278"></child>
+            <child nodeId="node-1137"></child>
+            <child nodeId="node-1136"></child>
+            <child nodeId="node-1088"></child>
+            <child nodeId="node-1082"></child>
+            <child nodeId="node-1074"></child>
+            <child nodeId="node-1598"></child>
+            <child nodeId="node-1472"></child>
+            <child nodeId="node-1006"></child>
+            <child nodeId="node-1426"></child>
+            <child nodeId="node-1004"></child>
+            <child nodeId="node-1003"></child>
+        </children>
+    </item>
+    <item nodeId="node-1003">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] look through window
+Through the window, you make out the Grassy Slope.
+
+&gt;[2] climb through window
+The window is shut: you'd break the glass.
+
+&gt;[3] open window
+You open the bedroom window.
+
+&gt;[4] climb through window
+
+Grassy Slope
+You can see a bedroom window here.
+
+&gt;[5] look through window
+Through the window, you make out Your Bedroom.
+
+&gt;[6] close window
+You close the bedroom window.
+
+&gt;[7] e
+The window is shut: you'd break the glass.
+
+&gt;[8] open window
+You open the bedroom window.
+
+&gt;[9] e
+
+Your Bedroom
+You can see a bedroom window here.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] look through window
+[2] climb through window
+[3] open window
+[4] climb through window
+[5] look through window
+[6] close window
+[7] e
+[8] open window
+[9] e
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1004">
+        <command xml:space="preserve">test</command>
+        <result xml:space="preserve">&gt;--&gt; The following tests are available:
+'test me'
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] look
+Plain of the Skull
+A vast and trackless plain, enlivened only by the bones of those who have previously tried and failed to cross. Above you is the Endless Tower, which rises half-way to the moon.
+
+&gt;[2] up
+You climb... and climb... and climb... The sun sets. The moon rises. The wind begins to blow. You continue to climb...
+
+Endless Tower
+From up here the Plain of the Skull seems only a small bald patch: the world is round and most of it is covered with trees. Far off to the southwest is a shimmering surface that might be water; but there are no signs of cities or civilizations, only the lizard-skeletons.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] look
+[2] up
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1426">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1427"></child>
+            <child nodeId="node-1510"></child>
+        </children>
+    </item>
+    <item nodeId="node-1510">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1511"></child>
+        </children>
+    </item>
+    <item nodeId="node-1511">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1522"></child>
+            <child nodeId="node-1512"></child>
+        </children>
+    </item>
+    <item nodeId="node-1512">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1513"></child>
+        </children>
+    </item>
+    <item nodeId="node-1513">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1514"></child>
+        </children>
+    </item>
+    <item nodeId="node-1514">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1515"></child>
+        </children>
+    </item>
+    <item nodeId="node-1515">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1516"></child>
+        </children>
+    </item>
+    <item nodeId="node-1516">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1517"></child>
+        </children>
+    </item>
+    <item nodeId="node-1517">
+        <command xml:space="preserve">rub the lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1518"></child>
+        </children>
+    </item>
+    <item nodeId="node-1518">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1522">
+        <command xml:space="preserve">juimp</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1523"></child>
+        </children>
+    </item>
+    <item nodeId="node-1523">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1524"></child>
+        </children>
+    </item>
+    <item nodeId="node-1524">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1525"></child>
+        </children>
+    </item>
+    <item nodeId="node-1525">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1526"></child>
+        </children>
+    </item>
+    <item nodeId="node-1526">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1535"></child>
+        </children>
+    </item>
+    <item nodeId="node-1535">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1536"></child>
+        </children>
+    </item>
+    <item nodeId="node-1536">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1537"></child>
+        </children>
+    </item>
+    <item nodeId="node-1537">
+        <command xml:space="preserve">open pouc</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1538"></child>
+        </children>
+    </item>
+    <item nodeId="node-1538">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1539"></child>
+        </children>
+    </item>
+    <item nodeId="node-1539">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1540"></child>
+        </children>
+    </item>
+    <item nodeId="node-1540">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1541"></child>
+        </children>
+    </item>
+    <item nodeId="node-1541">
+        <command xml:space="preserve">drop lamp</command>
+        <result xml:space="preserve">Dropped.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1542"></child>
+        </children>
+    </item>
+    <item nodeId="node-1542">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1543"></child>
+        </children>
+    </item>
+    <item nodeId="node-1543">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1427">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1428"></child>
+        </children>
+    </item>
+    <item nodeId="node-1428">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shift as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1627"></child>
+            <child nodeId="node-1429"></child>
+        </children>
+    </item>
+    <item nodeId="node-1429">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1627">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump... and fall on your butt. At least nobody saw, given that you're alone in a baren desert and all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1628"></child>
+        </children>
+    </item>
+    <item nodeId="node-1628">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump and grab the rung, but the tug of your weight one shoulder sends you falling back down to the sand and nearly wrenches your arm from its socket.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1629"></child>
+        </children>
+    </item>
+    <item nodeId="node-1629">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump... and fall on your butt. At least nobody saw, given that you're alone in a baren desert and all.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1630"></child>
+        </children>
+    </item>
+    <item nodeId="node-1630">
+        <command xml:space="preserve">juimp</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1631"></child>
+        </children>
+    </item>
+    <item nodeId="node-1631">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1632"></child>
+        </children>
+    </item>
+    <item nodeId="node-1632">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">The platform doesn't seem too stable... It's probably best to stay still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1546"></child>
+            <child nodeId="node-1390"></child>
+            <child nodeId="node-1008"></child>
+            <child nodeId="node-1269"></child>
+        </children>
+    </item>
+    <item nodeId="node-1269">
+        <command xml:space="preserve">look at ladder</command>
+        <result xml:space="preserve">A rope ladder connected by sturdy white branches, apparently from the tree itself. It hangs from high up in the tree, and ends 2 meters above the ground.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1270"></child>
+        </children>
+    </item>
+    <item nodeId="node-1270">
+        <command xml:space="preserve">examine ladder</command>
+        <result xml:space="preserve">A rope ladder connected by sturdy white branches, apparently from the tree itself. It hangs from high up in the tree, and ends 2 meters above the ground.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+            <child nodeId="node-1461"></child>
+            <child nodeId="node-1009"></child>
+            <child nodeId="node-1443"></child>
+            <child nodeId="node-1578"></child>
+        </children>
+    </item>
+    <item nodeId="node-1578">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1579"></child>
+            <child nodeId="node-1613"></child>
+        </children>
+    </item>
+    <item nodeId="node-1613">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1614"></child>
+        </children>
+    </item>
+    <item nodeId="node-1614">
+        <command xml:space="preserve">rub the lamp</command>
+        <result xml:space="preserve">
+You rub the brass lamp, and your vision flashes a bright white.
+...
+...
+
+TEN THOUSAND YEARS WILL GIVE YOU SUCH A CRICK IN THE NECK
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1579">
+        <command xml:space="preserve">rub brass lam</command>
+        <result xml:space="preserve">I only understood you as far as wanting to rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1580"></child>
+        </children>
+    </item>
+    <item nodeId="node-1580">
+        <command xml:space="preserve">rub brass lamp</command>
+        <result xml:space="preserve">What?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1581"></child>
+        </children>
+    </item>
+    <item nodeId="node-1581">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1443">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1444"></child>
+        </children>
+    </item>
+    <item nodeId="node-1444">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1450"></child>
+        </children>
+    </item>
+    <item nodeId="node-1450">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1451"></child>
+        </children>
+    </item>
+    <item nodeId="node-1451">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1452"></child>
+        </children>
+    </item>
+    <item nodeId="node-1452">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather. The pouch is tied closed with a string.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1453"></child>
+        </children>
+    </item>
+    <item nodeId="node-1453">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1454"></child>
+        </children>
+    </item>
+    <item nodeId="node-1454">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1455"></child>
+        </children>
+    </item>
+    <item nodeId="node-1455">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1456"></child>
+        </children>
+    </item>
+    <item nodeId="node-1456">
+        <command xml:space="preserve">put lamp in pouch</command>
+        <result xml:space="preserve">You put the brass lamp into leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1457"></child>
+        </children>
+    </item>
+    <item nodeId="node-1457">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather.
+
+In leather pouch is a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+            <child nodeId="node-1405"></child>
+            <child nodeId="node-1010"></child>
+            <child nodeId="node-1485"></child>
+        </children>
+    </item>
+    <item nodeId="node-1485">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1594"></child>
+            <child nodeId="node-1564"></child>
+            <child nodeId="node-1486"></child>
+        </children>
+    </item>
+    <item nodeId="node-1486">
+        <command xml:space="preserve">take the lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1487"></child>
+        </children>
+    </item>
+    <item nodeId="node-1487">
+        <command xml:space="preserve">rub the lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1488"></child>
+        </children>
+    </item>
+    <item nodeId="node-1488">
+        <command xml:space="preserve">rub the thing</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1564">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1565"></child>
+        </children>
+    </item>
+    <item nodeId="node-1565">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">
+You rub the brass lamp, and your vision flashes a bright white.
+...
+...
+
+TEN THOUSAND YEARS I HAVE RESTED
+WHO DISTURBS MY SLUMBER
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1566"></child>
+            <child nodeId="node-1608"></child>
+        </children>
+    </item>
+    <item nodeId="node-1608">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Treehouse
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1566">
+        <command xml:space="preserve">quit</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1594">
+        <command xml:space="preserve">rub brass lamp</command>
+        <result xml:space="preserve">
+You rub the brass lamp, and your vision flashes a bright white.
+...
+...
+
+TEN THOUSAND YEARS WILL GIVE YOU SUCH A CRICK IN THE NECK
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1595"></child>
+        </children>
+    </item>
+    <item nodeId="node-1595">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Treehouse
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1596"></child>
+        </children>
+    </item>
+    <item nodeId="node-1596">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1597"></child>
+        </children>
+    </item>
+    <item nodeId="node-1597">
+        <command xml:space="preserve">rub brass lamp</command>
+        <result xml:space="preserve">You can't reach into the Treehouse.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+            <child nodeId="node-1587"></child>
+        </children>
+    </item>
+    <item nodeId="node-1587">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1588"></child>
+        </children>
+    </item>
+    <item nodeId="node-1588">
+        <command xml:space="preserve">rub brass lamp</command>
+        <result xml:space="preserve">
+You rub the brass lamp, and your vision flashes a bright white.
+...
+...
+
+TEN THOUSAND YEARS I HAVE RESTED
+WHO DISTURBS MY SLUMBER
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1621"></child>
+            <child nodeId="node-1012"></child>
+            <child nodeId="node-1557"></child>
+        </children>
+    </item>
+    <item nodeId="node-1557">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1558"></child>
+        </children>
+    </item>
+    <item nodeId="node-1558">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">fuck
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+            <child nodeId="node-1437"></child>
+        </children>
+    </item>
+    <item nodeId="node-1437">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather. The pouch is tied closed with a string.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1438"></child>
+        </children>
+    </item>
+    <item nodeId="node-1438">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1439"></child>
+        </children>
+    </item>
+    <item nodeId="node-1439">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather.
+
+In leather pouch is a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1499"></child>
+        </children>
+    </item>
+    <item nodeId="node-1499">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1500"></child>
+        </children>
+    </item>
+    <item nodeId="node-1500">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1501"></child>
+        </children>
+    </item>
+    <item nodeId="node-1501">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1502"></child>
+        </children>
+    </item>
+    <item nodeId="node-1502">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1503"></child>
+        </children>
+    </item>
+    <item nodeId="node-1503">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1504"></child>
+        </children>
+    </item>
+    <item nodeId="node-1504">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1505"></child>
+        </children>
+    </item>
+    <item nodeId="node-1505">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1506"></child>
+        </children>
+    </item>
+    <item nodeId="node-1506">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1507"></child>
+        </children>
+    </item>
+    <item nodeId="node-1507">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1508"></child>
+        </children>
+    </item>
+    <item nodeId="node-1508">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1621">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">The platform doesn't seem too stable... It's probably best to stay still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1622"></child>
+        </children>
+    </item>
+    <item nodeId="node-1622">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">The platform doesn't seem too stable... It's probably best to stay still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1623"></child>
+        </children>
+    </item>
+    <item nodeId="node-1623">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The platform doesn't seem too stable... It's probably best to stay still.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1405">
+        <command xml:space="preserve">jum</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1406"></child>
+        </children>
+    </item>
+    <item nodeId="node-1406">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1407"></child>
+        </children>
+    </item>
+    <item nodeId="node-1407">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1408"></child>
+        </children>
+    </item>
+    <item nodeId="node-1408">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1409"></child>
+        </children>
+    </item>
+    <item nodeId="node-1409">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1410"></child>
+        </children>
+    </item>
+    <item nodeId="node-1410">
+        <command xml:space="preserve">look at leather pouh</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1411"></child>
+        </children>
+    </item>
+    <item nodeId="node-1411">
+        <command xml:space="preserve">look at leather pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1412"></child>
+        </children>
+    </item>
+    <item nodeId="node-1412">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">jumo</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1035"></child>
+        </children>
+    </item>
+    <item nodeId="node-1035">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+        </children>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1037"></child>
+        </children>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1461">
+        <command xml:space="preserve">jum</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1462"></child>
+        </children>
+    </item>
+    <item nodeId="node-1462">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1463"></child>
+        </children>
+    </item>
+    <item nodeId="node-1463">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather. The pouch is tied closed with a string.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1464"></child>
+        </children>
+    </item>
+    <item nodeId="node-1464">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1465"></child>
+        </children>
+    </item>
+    <item nodeId="node-1465">
+        <command xml:space="preserve">look at pouch</command>
+        <result xml:space="preserve">A small pouch of leather, oiled on the outside to resist the weather.
+
+In the leather pouch is a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1466"></child>
+        </children>
+    </item>
+    <item nodeId="node-1466">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1467"></child>
+        </children>
+    </item>
+    <item nodeId="node-1467">
+        <command xml:space="preserve">look at lamp</command>
+        <result xml:space="preserve">A sturdy brass lamp that glints in the sunlight. When you touch the lamp, you feel... different.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1468"></child>
+        </children>
+    </item>
+    <item nodeId="node-1468">
+        <command xml:space="preserve">examine lamp</command>
+        <result xml:space="preserve">A sturdy brass lamp that glints in the sunlight. When you touch the lamp, you feel... different.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1469"></child>
+        </children>
+    </item>
+    <item nodeId="node-1469">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You can't see anything promising that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1470"></child>
+        </children>
+    </item>
+    <item nodeId="node-1470">
+        <command xml:space="preserve">use lamp</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1471"></child>
+        </children>
+    </item>
+    <item nodeId="node-1471">
+        <command xml:space="preserve">interact with lamp</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">do down</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1390">
+        <command xml:space="preserve">jumip</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1391"></child>
+        </children>
+    </item>
+    <item nodeId="node-1391">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1392"></child>
+        </children>
+    </item>
+    <item nodeId="node-1392">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1393"></child>
+        </children>
+    </item>
+    <item nodeId="node-1393">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1394"></child>
+        </children>
+    </item>
+    <item nodeId="node-1394">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1395"></child>
+        </children>
+    </item>
+    <item nodeId="node-1395">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1396"></child>
+        </children>
+    </item>
+    <item nodeId="node-1396">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1397"></child>
+        </children>
+    </item>
+    <item nodeId="node-1397">
+        <command xml:space="preserve">open leather pouch</command>
+        <result xml:space="preserve">It isn't something you can open.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1398"></child>
+        </children>
+    </item>
+    <item nodeId="node-1398">
+        <command xml:space="preserve">look in pouch</command>
+        <result xml:space="preserve">In leather pouch is a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1399"></child>
+        </children>
+    </item>
+    <item nodeId="node-1399">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1400"></child>
+        </children>
+    </item>
+    <item nodeId="node-1400">
+        <command xml:space="preserve">look at lamp</command>
+        <result xml:space="preserve">A sturdy brass lamp that glints in the sunlight. When you touch the lamp, you feel... different.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1546">
+        <command xml:space="preserve">j</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1547"></child>
+        </children>
+    </item>
+    <item nodeId="node-1547">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1548"></child>
+        </children>
+    </item>
+    <item nodeId="node-1548">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1549"></child>
+        </children>
+    </item>
+    <item nodeId="node-1549">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1550"></child>
+        </children>
+    </item>
+    <item nodeId="node-1550">
+        <command xml:space="preserve">rub the brass lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1472">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1473"></child>
+        </children>
+    </item>
+    <item nodeId="node-1473">
+        <command xml:space="preserve">rub the lamp</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1474"></child>
+        </children>
+    </item>
+    <item nodeId="node-1474">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1475"></child>
+        </children>
+    </item>
+    <item nodeId="node-1475">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1476"></child>
+        </children>
+    </item>
+    <item nodeId="node-1476">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1477"></child>
+        </children>
+    </item>
+    <item nodeId="node-1477">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open the leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1478"></child>
+        </children>
+    </item>
+    <item nodeId="node-1478">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1479"></child>
+        </children>
+    </item>
+    <item nodeId="node-1479">
+        <command xml:space="preserve">rub lamp</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1480"></child>
+        </children>
+    </item>
+    <item nodeId="node-1480">
+        <command xml:space="preserve">rub the lamp</command>
+        <result xml:space="preserve">You rub the brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1598">
+        <command xml:space="preserve">rub brass lamp</command>
+        <result xml:space="preserve">
+You rub the brass lamp, and your vision flashes a bright white.
+...
+...
+
+TEN THOUSAND YEARS I HAVE RESTED
+WHO DISTURBS MY SLUMBER
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1600"></child>
+        </children>
+    </item>
+    <item nodeId="node-1600">
+        <command xml:space="preserve">quit</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Hallway
+A short hallway with three doors that opens out into a wider room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+            <child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">
+Parents' Bedroom
+You can see Big Bed and Large Dresser here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Hallway
+A short hallway with three doors that opens out into a wider room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">northeast</command>
+        <result xml:space="preserve">
+Bathroom
+You can see a toilet, a sink and a bath here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+        </children>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">southwest</command>
+        <result xml:space="preserve">
+Hallway
+A short hallway with three doors that opens out into a wider room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Living Room
+You can see a couch here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Hallway
+A short hallway with three doors that opens out into a wider room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Hallway
+A short hallway with three doors that opens out into a wider room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+            <child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">Looking west
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+            <child nodeId="node-1112"></child>
+            <child nodeId="node-1105"></child>
+            <child nodeId="node-1305"></child>
+            <child nodeId="node-1093"></child>
+            <child nodeId="node-1090"></child>
+            <child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] look
+Awning
+A tan awning is stretched on tent poles over the dig-site, providing a little shade to the workers here; you are at the bottom of a square twenty feet on a side, marked out with pegs and lines of string. Uncovered in the south face of this square is an awkward opening into the earth.
+
+&gt;[2] s
+
+Slightly Wrong Chamber
+When you first step into the room, you are bothered by the sense that something is not quite right: perhaps the lighting, perhaps the angle of the walls. A mural on the far wall depicts a woman with a staff, tipped with a pine-cone. She appears to be watching you.
+
+&gt;[3] look
+Slightly Wrong Chamber
+A mural on the far wall depicts a woman with a staff, tipped with a pine-cone. She appears to be watching you.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] look
+[2] s
+[3] look
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">look at ladder</command>
+        <result xml:space="preserve">You make out ladder that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+            <child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+            <child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You make out Tree in the Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Look south, you see a giant tree bleached white by the sun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You can make out nothing that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1305">
+        <command xml:space="preserve">look down</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">look below</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">look down</command>
+        <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Desert
+There's sand here I guess.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Desert
+There's sand here I guess.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+There's sand here I guess.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">look at cliff</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">look nort</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">look nort</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">l e</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">l w</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">l s</command>
+        <result xml:space="preserve">Look south, you see a giant tree bleached white by the sun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">go s</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1293"></child>
+            <child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">"A Treehouse Beneath The Cliff" by FIGBERT</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">The Plateau is a room. "[if unvisited]You awake to find youself prone on the ground. You look around to see a grassy field that seems to stretch on forever in all directions, ending abruptly half a meter south of you. You scramble quickly away from the edge.[otherwise]An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff."</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">Instead of looking south of the plateau:</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve"> say "Fucking work please"</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">The Desert is below the Plateau. The desert is south of the Plateau.</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">Above the desert is nowhere. North of the desert is nothing.</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1293">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1294"></child>
+        </children>
+    </item>
+    <item nodeId="node-1294">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1295"></child>
+        </children>
+    </item>
+    <item nodeId="node-1295">
+        <command xml:space="preserve">look nort</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1296"></child>
+        </children>
+    </item>
+    <item nodeId="node-1296">
+        <command xml:space="preserve">look nortj</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1297"></child>
+        </children>
+    </item>
+    <item nodeId="node-1297">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1298"></child>
+        </children>
+    </item>
+    <item nodeId="node-1298">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">look s</command>
+        <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+            <child nodeId="node-1160"></child>
+            <child nodeId="node-1144"></child>
+            <child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You make out the Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Looking south, you see a giant tree bleached white by the sun. Hanging from its branches is a ladder, and at the top is a platform.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">look at ladder</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">look at desert</command>
+        <result xml:space="preserve">You make out a Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">climb</command>
+        <result xml:space="preserve">What do you want to climb?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">climb up</command>
+        <result xml:space="preserve">You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1159"></child>
+        </children>
+    </item>
+    <item nodeId="node-1159">
+        <command xml:space="preserve">climb ladder</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1160">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+        </children>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You make out the Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Test
+fuck
+
+You can see a cat here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1278">
+        <command xml:space="preserve">look n</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1279"></child>
+        </children>
+    </item>
+    <item nodeId="node-1279">
+        <command xml:space="preserve">look w</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1280"></child>
+        </children>
+    </item>
+    <item nodeId="node-1280">
+        <command xml:space="preserve">look e</command>
+        <result xml:space="preserve">The green grass field stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1281"></child>
+        </children>
+    </item>
+    <item nodeId="node-1281">
+        <command xml:space="preserve">look s</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1282"></child>
+        </children>
+    </item>
+    <item nodeId="node-1282">
+        <command xml:space="preserve">look at cliff</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1283"></child>
+        </children>
+    </item>
+    <item nodeId="node-1283">
+        <command xml:space="preserve">go s</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1284"></child>
+        </children>
+    </item>
+    <item nodeId="node-1284">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Desert
+A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1285"></child>
+        </children>
+    </item>
+    <item nodeId="node-1285">
+        <command xml:space="preserve">look w</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1286"></child>
+        </children>
+    </item>
+    <item nodeId="node-1286">
+        <command xml:space="preserve">look e</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1287"></child>
+        </children>
+    </item>
+    <item nodeId="node-1287">
+        <command xml:space="preserve">look n</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1288"></child>
+        </children>
+    </item>
+    <item nodeId="node-1288">
+        <command xml:space="preserve">look s</command>
+        <result xml:space="preserve">Looking south, you see a giant tree bleached white by the sun. Hanging from its branches is a ladder, and at the top is a platform.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1306">
+        <command xml:space="preserve">look down</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1307"></child>
+        </children>
+    </item>
+    <item nodeId="node-1307">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1310"></child>
+        </children>
+    </item>
+    <item nodeId="node-1310">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1323"></child>
+        </children>
+    </item>
+    <item nodeId="node-1323">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1324"></child>
+        </children>
+    </item>
+    <item nodeId="node-1324">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">You look north and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">look below the plateau</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">look at the desert</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">look at the cliff</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse maybe 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+            <child nodeId="node-1178"></child>
+            <child nodeId="node-1174"></child>
+            <child nodeId="node-1169"></child>
+            <child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">look through the cliff</command>
+        <result xml:space="preserve">You find nothing of interest.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">look at the desert</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">look at the Desert</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">look Desert</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You make out the Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">look toward the Desert</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">jump down</command>
+        <result xml:space="preserve">I only understood you as far as wanting to jump.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">jump down</command>
+        <result xml:space="preserve">I only understood you as far as wanting to jump.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">go through the cliff</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">go through the cliff</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">look at cliff</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">examine cliff</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1271">
+        <command xml:space="preserve">look at Desert</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1272"></child>
+        </children>
+    </item>
+    <item nodeId="node-1272">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">Peering over the cliff, you see a sandy expanse perhaps 5 meters below you. Maybe it's a soft landing?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1273"></child>
+        </children>
+    </item>
+    <item nodeId="node-1273">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1274"></child>
+        </children>
+    </item>
+    <item nodeId="node-1274">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1275"></child>
+        </children>
+    </item>
+    <item nodeId="node-1275">
+        <command xml:space="preserve">look at ladder</command>
+        <result xml:space="preserve">A rope ladder connected by sturdy white branches, apparently from the tree itself. It hangs from high up in the tree, and ends 2 meters above the ground.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1276"></child>
+        </children>
+    </item>
+    <item nodeId="node-1276">
+        <command xml:space="preserve">look toward ladder</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1189"></child>
+        </children>
+    </item>
+    <item nodeId="node-1189">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1190"></child>
+        </children>
+    </item>
+    <item nodeId="node-1190">
+        <command xml:space="preserve">climb</command>
+        <result xml:space="preserve">(the ladder)
+Little is to be achieved by that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1191"></child>
+        </children>
+    </item>
+    <item nodeId="node-1191">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1192"></child>
+        </children>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">climb the ladder</command>
+        <result xml:space="preserve">Little is to be achieved by that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">go to the cliff</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">go cliff</command>
+        <result xml:space="preserve">
+desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1227"></child>
+            <child nodeId="node-1220"></child>
+            <child nodeId="node-1216"></child>
+            <child nodeId="node-1290"></child>
+            <child nodeId="node-1211"></child>
+            <child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+            <child nodeId="node-1199"></child>
+        </children>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">climb up</command>
+        <result xml:space="preserve">You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">climb the ladder</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">go up[</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">go up\</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+        </children>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1207"></child>
+        </children>
+    </item>
+    <item nodeId="node-1207">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1208"></child>
+        </children>
+    </item>
+    <item nodeId="node-1208">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1209"></child>
+        </children>
+    </item>
+    <item nodeId="node-1209">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1210"></child>
+        </children>
+    </item>
+    <item nodeId="node-1210">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+A house in a tree.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1211">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look back and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1212"></child>
+            <child nodeId="node-1327"></child>
+        </children>
+    </item>
+    <item nodeId="node-1327">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">You look back and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1328"></child>
+        </children>
+    </item>
+    <item nodeId="node-1328">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1329"></child>
+        </children>
+    </item>
+    <item nodeId="node-1329">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1330"></child>
+        </children>
+    </item>
+    <item nodeId="node-1330">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1331"></child>
+        </children>
+    </item>
+    <item nodeId="node-1331">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1332"></child>
+        </children>
+    </item>
+    <item nodeId="node-1332">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1333"></child>
+        </children>
+    </item>
+    <item nodeId="node-1333">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1334"></child>
+        </children>
+    </item>
+    <item nodeId="node-1334">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1335"></child>
+        </children>
+    </item>
+    <item nodeId="node-1335">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1336"></child>
+        </children>
+    </item>
+    <item nodeId="node-1336">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You can't see anything promising that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1337"></child>
+        </children>
+    </item>
+    <item nodeId="node-1337">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">You can't see anything promising that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1338"></child>
+        </children>
+    </item>
+    <item nodeId="node-1338">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">You can't see anything promising that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1339"></child>
+        </children>
+    </item>
+    <item nodeId="node-1339">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1340"></child>
+        </children>
+    </item>
+    <item nodeId="node-1340">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">You straighten yourself up, and look around the platform.
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1212">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1213"></child>
+        </children>
+    </item>
+    <item nodeId="node-1213">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1214"></child>
+        </children>
+    </item>
+    <item nodeId="node-1214">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1215"></child>
+        </children>
+    </item>
+    <item nodeId="node-1215">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">You make out Tree in the Desert that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1290">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">of the Desert
+A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1216">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1219"></child>
+            <child nodeId="node-1415"></child>
+            <child nodeId="node-1217"></child>
+            <child nodeId="node-1343"></child>
+        </children>
+    </item>
+    <item nodeId="node-1343">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You look back and find yourself confronted by the cliff you just jumped from. Does it seem taller than it did when you were on top?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1344"></child>
+        </children>
+    </item>
+    <item nodeId="node-1344">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1345"></child>
+        </children>
+    </item>
+    <item nodeId="node-1345">
+        <command xml:space="preserve">look south</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1346"></child>
+        </children>
+    </item>
+    <item nodeId="node-1346">
+        <command xml:space="preserve">look east</command>
+        <result xml:space="preserve">The sandy expanse stretches on past the horizon.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1347"></child>
+        </children>
+    </item>
+    <item nodeId="node-1347">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">You see a rope ladder connected by sturdy white branches, apparently from the tree itself. It hangs from high up in the tree, and ends 2 meters above the ground.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1355"></child>
+        </children>
+    </item>
+    <item nodeId="node-1355">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1356"></child>
+        </children>
+    </item>
+    <item nodeId="node-1356">
+        <command xml:space="preserve">climb the ladder</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1357"></child>
+        </children>
+    </item>
+    <item nodeId="node-1357">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1358"></child>
+        </children>
+    </item>
+    <item nodeId="node-1358">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1359"></child>
+        </children>
+    </item>
+    <item nodeId="node-1359">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1360"></child>
+        </children>
+    </item>
+    <item nodeId="node-1360">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1361"></child>
+        </children>
+    </item>
+    <item nodeId="node-1361">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1362"></child>
+        </children>
+    </item>
+    <item nodeId="node-1362">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1363"></child>
+        </children>
+    </item>
+    <item nodeId="node-1363">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You jump on the spot.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1380"></child>
+        </children>
+    </item>
+    <item nodeId="node-1380">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Treehouse
+
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1217">
+        <command xml:space="preserve">look at ladder</command>
+        <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1218"></child>
+        </children>
+    </item>
+    <item nodeId="node-1218">
+        <command xml:space="preserve">look up</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1415">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1416"></child>
+        </children>
+    </item>
+    <item nodeId="node-1416">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1421"></child>
+        </children>
+    </item>
+    <item nodeId="node-1421">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1422"></child>
+        </children>
+    </item>
+    <item nodeId="node-1422">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You start your jump up towards the ladder, but the pressure you put on your foot before jumping causes the sand to shif as you begin your jump and you miss the ladder.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1423"></child>
+        </children>
+    </item>
+    <item nodeId="node-1423">
+        <command xml:space="preserve">jump</command>
+        <result xml:space="preserve">You flex your legs and jump with all your might, and you manage to catch the final rung of the latter. You pull yourself up the rungs one-by-one, and collapse on the platform.
+
+Treehouse
+You straighten yourself up, and look around the platform.The treehouse is less of a house and more of a platform, built of warped branches washed as white as the rest of the tree. On the far side of the platform is a leather pouch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1424"></child>
+        </children>
+    </item>
+    <item nodeId="node-1424">
+        <command xml:space="preserve">open pouch</command>
+        <result xml:space="preserve">You open leather pouch, revealing a brass lamp.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1425"></child>
+        </children>
+    </item>
+    <item nodeId="node-1425">
+        <command xml:space="preserve">take lamp</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1219">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1220">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1224"></child>
+            <child nodeId="node-1302"></child>
+            <child nodeId="node-1221"></child>
+        </children>
+    </item>
+    <item nodeId="node-1221">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Desert
+A sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1222"></child>
+        </children>
+    </item>
+    <item nodeId="node-1222">
+        <command xml:space="preserve">look north</command>
+        <result xml:space="preserve">You make out the Plateau that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1223"></child>
+        </children>
+    </item>
+    <item nodeId="node-1223">
+        <command xml:space="preserve">look west</command>
+        <result xml:space="preserve">You can't see anything promising that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1302">
+        <command xml:space="preserve">go u</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1303"></child>
+        </children>
+    </item>
+    <item nodeId="node-1303">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">Jumping down into the sand is one thing: climbing this is another. You reach for a handhold, but wind and sand have worn the cliff face smooth to the touch.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1224">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Tree in the Desert
+An ancient, gnarled tree stands alone in the sands bleached white by the heat of the sun. Hanging from the one of the highest branches is a ladder dangling just above you.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1225"></child>
+        </children>
+    </item>
+    <item nodeId="node-1225">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1226"></child>
+        </children>
+    </item>
+    <item nodeId="node-1226">
+        <command xml:space="preserve">climb the ladder</command>
+        <result xml:space="preserve">The ladder is high above the ground, but if you jump maybe you can grab it.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1227">
+        <command xml:space="preserve">go nort</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1228"></child>
+        </children>
+    </item>
+    <item nodeId="node-1228">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1229">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">
+Poop
+Poop town
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1234"></child>
+            <child nodeId="node-1230"></child>
+        </children>
+    </item>
+    <item nodeId="node-1230">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1231"></child>
+        </children>
+    </item>
+    <item nodeId="node-1231">
+        <command xml:space="preserve">south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1232"></child>
+        </children>
+    </item>
+    <item nodeId="node-1232">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1233"></child>
+        </children>
+    </item>
+    <item nodeId="node-1233">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1234">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">
+Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+You can see a cliff here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1235">
+        <command xml:space="preserve">go n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1236"></child>
+        </children>
+    </item>
+    <item nodeId="node-1236">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Plateau
+An endless landscape of grass, flat for kilometers in all directions except south, where it ends in an sudden dropoff.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1237">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">Desert
+You leap out from the grassy plateau and fall downwards through the air, hitting the sand with a resounding thump. You find yourself in a sandy expanse stretching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1238"></child>
+        </children>
+    </item>
+    <item nodeId="node-1238">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1239"></child>
+        </children>
+    </item>
+    <item nodeId="node-1239">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1240"></child>
+        </children>
+    </item>
+    <item nodeId="node-1240">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1241"></child>
+        </children>
+    </item>
+    <item nodeId="node-1241">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1242"></child>
+        </children>
+    </item>
+    <item nodeId="node-1242">
+        <command xml:space="preserve">go south</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1243">
+        <command xml:space="preserve">go cliff</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1244"></child>
+        </children>
+    </item>
+    <item nodeId="node-1244">
+        <command xml:space="preserve">go north</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1245"></child>
+        </children>
+    </item>
+    <item nodeId="node-1245">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1246">
+        <command xml:space="preserve">climb down</command>
+        <result xml:space="preserve">You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1247"></child>
+        </children>
+    </item>
+    <item nodeId="node-1247">
+        <command xml:space="preserve">climb down the cliff</command>
+        <result xml:space="preserve">I only understood you as far as wanting to climb down.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1248"></child>
+        </children>
+    </item>
+    <item nodeId="node-1248">
+        <command xml:space="preserve">climb down cliff</command>
+        <result xml:space="preserve">I only understood you as far as wanting to climb down.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1249"></child>
+        </children>
+    </item>
+    <item nodeId="node-1249">
+        <command xml:space="preserve">climb cliff</command>
+        <result xml:space="preserve">Little is to be achieved by that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1250">
+        <command xml:space="preserve">Go through the cliff</command>
+        <result xml:space="preserve">
+Desert
+A sandy expanse streatching out southward, ending abruptly to the north in a smooth cliff-face.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

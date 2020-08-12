@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">challenge-three</command>
+        <result xml:space="preserve">
+
+
+Challenge Three
+An Interactive Fiction by FIGBERT
+Release 1 / Serial number 200703 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Example Location
+A white cube, expaning on to the north, south, east, and west.
+
+You can see Jonny here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+            <child nodeId="node-1019"></child>
+            <child nodeId="node-1031"></child>
+            <child nodeId="node-1005"></child>
+            <child nodeId="node-1010"></child>
+            <child nodeId="node-1040"></child>
+        </children>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">take Jonny</command>
+        <result xml:space="preserve">I don't suppose Jonny would care for that.
+
+Jonny's has a confusing look on his face, almost as if he's trying not to cry.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">hold hands with Jonny</command>
+        <result xml:space="preserve">You take their hand in yours.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Example Location - East
+More blank cube.
+
+A pristine blue button is attached to the floor here.
+
+Jonny arrives from the west.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">x button</command>
+        <result xml:space="preserve">A dark blue button with the text "END SIMULATION" printed on it in thick, white letters.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">press button</command>
+        <result xml:space="preserve">Beginning shutdown process...
+Defragging...
+Clearing out temporary directories...
+Cleaning user cache...
+Spinning down...
+
+
+
+    *** The End ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">undo</command>
+        <result xml:space="preserve">Example Location - East
+[Previous turn undone.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">let go of Jonny</command>
+        <result xml:space="preserve">You're not holding their hand!
+
+Jonny is free.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">hold hands with Jonny</command>
+        <result xml:space="preserve">You take their hand in yours.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+            <child nodeId="node-1006"></child>
+        </children>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">let go of Jonny</command>
+        <result xml:space="preserve">You loosen your grip, and slide your hand out from theirs.
+
+Jonny is free.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Example Location
+You can see Jonny here.
+
+Jonny is free.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+        </children>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+Jonny is free.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">stop</command>
+        <result xml:space="preserve">(holding hands with Jonny)
+You loosen your grip, and slide your hand out from theirs.
+
+Jonny is free.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">go w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">go e</command>
+        <result xml:space="preserve">
+Kukuriku
+Jonny arrives from the west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">go e</command>
+        <result xml:space="preserve">
+Hat
+Jonny arrives from the west.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">go w</command>
+        <result xml:space="preserve">
+Kukuriku
+Jonny arrives from the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">go w</command>
+        <result xml:space="preserve">
+Example Location
+Jonny arrives from the east.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Example Location - East
+More blank cube.
+
+You can hear Jonny humming a morose tune.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Kukuriku
+You can hear Jonny humming a morose tune.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">east</command>
+        <result xml:space="preserve">
+Hat
+You can hear Jonny humming a morose tune.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Kukuriku
+You can hear Jonny humming a morose tune.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">
+Example Location
+You can see Jonny here.
+
+Jonny's has a confusing look on his face, almost as if he's trying not to cry.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">hold jonny's hand</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">hold hands with jonny</command>
+        <result xml:space="preserve">You take their hand in yours.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Kukuriku
+Jonny arrives from the west.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Hat
+Jonny arrives from the west.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Kukuriku
+Jonny arrives from the east.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">go east</command>
+        <result xml:space="preserve">
+Hat
+Jonny arrives from the west.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Kukuriku
+Jonny arrives from the east.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">
+Example Location
+Jonny arrives from the east.
+
+Jonny has a nice smile on his face, and he's bopping his head up and down to music that you can't hear.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Example Location - East
+More blank cube.
+
+A pristine blue button is attached to the floor here.
+
+You can hear Jonny humming a morose tune the room over.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1034"></child>
+        </children>
+    </item>
+    <item nodeId="node-1034">
+        <command xml:space="preserve">push button</command>
+        <result xml:space="preserve">Nothing obvious happens.
+
+You can hear Jonny humming a morose tune the room over.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">examine button</command>
+        <result xml:space="preserve">A dark blue button with the text "END SIMULATION" printed on it in thick, white letters.
+
+You can hear Jonny humming a morose tune the room over.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
